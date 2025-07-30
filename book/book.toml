@@ -1,0 +1,5 @@
+[book]
+authors = ["Mohammad Ahmad ALhamad"]
+language = "en"
+src = "src"
+title = "Designing and Building Smart Relay Controller the Hard Way"
